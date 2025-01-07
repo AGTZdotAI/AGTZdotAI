@@ -1,6 +1,5 @@
 # 👋 Welcome to AI20 (AGTZ.AI) World
 
-![AI20 Banner](https://via.placeholder.com/800x200.png?text=AI20+Development+Platform)
 
 ## 🤖 About AI20 (AGTZ.AI)
 Transforming AI development from zero to hero - Building the next generation of AI agents.
